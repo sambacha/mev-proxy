@@ -1,0 +1,10 @@
+.git
+.github/
+node_modules
+docker-compose.yml
+Dockerfile
+*.log
+*.tgz
+*.tar.gz
+*.tsbuildinfo
+dist/
